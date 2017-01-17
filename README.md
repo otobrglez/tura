@@ -33,5 +33,14 @@ docker run -ti otobrglez/tura Ljubljana Koper Izola \
     Ptuj "Murska Sobota" Šentilj
 ```
 
+## API providers
+
+Only Google Distance Matrix API is currently supported.
+
+- [Google Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/) 
+- [Mapquest API](https://developer.mapquest.com/documentation/directions-api/route/get/)
+- [OpenStreetMap / OpenRouteService](http://wiki.openstreetmap.org/wiki/OpenRouteService#Direct_Routing_Request_.28via_GET.29)
+
+# Author
 
 - [Oto Brglez](https://github.com/otobrglez)
