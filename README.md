@@ -3,12 +3,12 @@
 ## Usage
 
 ```javascript
-distanceMatrix(['Ljubljana', 'Celje', 'Velenje', Dravogra], (data) => {
+distanceMatrix(['Ljubljana', 'Celje', 'Velenje', 'Dravograd'], (data) => {
   console.log(data);
 });
 ```
 
-Output...
+Output is something like this,...
 
 ```javascript
 [ { address: '6000 Koper, Slovenia',
