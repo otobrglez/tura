@@ -1,0 +1,25 @@
+{
+  "name": "tura",
+  "version": "0.0.1",
+  "description": "Finding path,...",
+  "main": "path.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otobrglez/tura.git"
+  },
+  "keywords": [
+    "matrix",
+    "distance",
+    "gps",
+    "location"
+  ],
+  "author": "Oto Brglez <otobrglez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otobrglez/tura/issues"
+  },
+  "homepage": "https://github.com/otobrglez/tura#readme"
+}
