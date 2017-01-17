@@ -10,7 +10,7 @@ distanceMatrix(['Ljubljana', 'Celje', 'Velenje', Dravogra], (data) => {
 
 Output...
 
-```json
+```javascript
 [ { address: '6000 Koper, Slovenia',
     distance: { text: '106 km', value: 105927 },
     duration: { text: '1 hour 9 mins', value: 4169 } },
